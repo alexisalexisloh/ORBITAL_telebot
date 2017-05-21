@@ -1,0 +1,5 @@
+$ easy _install telepot
+	import telepot
+	bot = telepot.bot('396402423:AAFuGmBsbWSPfEM-iM9nSTbn10WuJkcj1J4')
+	bot.getMe()
+{'alewei','aleweibot','alexisalexisloh':,'Your Bot','id':396402423:AAFuGmBsbWSPfEM-iM9nSTbn10WuJkcj1J4}
